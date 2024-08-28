@@ -1,0 +1,2 @@
+Contenu initial de file1
+Deuxième modification de file1
